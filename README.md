@@ -1,0 +1,1 @@
+Diese Version nutzt die einfache Google-Anmeldung (kein credentials.json nötig).
