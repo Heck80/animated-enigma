@@ -11,7 +11,8 @@ from reportlab.lib.pagesizes import A4
 st.set_page_config(page_title="050-000056 Weighted Regression", layout="centered")
 st.title("📈 Dosage Prediction via Smart Weighted Regression")
 
-CSV_FILE = "referenzdaten.csv"
+CSV_FILE = r"C:\Users\tobias.herzog\Tailorlux integrity solutions\Qualität - Artikelmanagement\050 - Träger\050-000056\04_Messdaten Kundenmuster\referenzdaten.csv"
+
 LOGO_PATH = "IntegriTEX-Logo.png"
 PDF_PATH = "prediction_report.pdf"
 
