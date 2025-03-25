@@ -6,7 +6,8 @@ import os
 st.set_page_config(page_title="050-000056 Reference Data Collection", layout="centered")
 st.title("📊 050-000056 Reference Data Collection")
 
-CSV_FILE = "referenzdaten.csv"
+CSV_FILE = r"C:\Users\tobias.herzog\Tailorlux integrity solutions\Qualität - Artikelmanagement\050 - Träger\050-000056\04_Messdaten Kundenmuster\referenzdaten.csv"
+
 
 columns = [
     "LOT_Number",
